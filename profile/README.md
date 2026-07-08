@@ -392,6 +392,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 <div align="center">
 
-Built with ❤️ by the ExamGuard AI Team · Faculty of Computer Science · 2025
+Built with ❤️ by the ExamGuard AI Team · ITI OS 46 · 2025
 
 </div>
